@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Ong
-=======
-Ba
->>>>>>> aa496ee (gfdgsdg)
+Cha
