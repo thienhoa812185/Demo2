@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chao em
+=======
+chao anh
+>>>>>>> 41ef623 (Sua lai thanh cao anh)
